@@ -1,0 +1,17 @@
+div#div{
+
+    margin-top: 40px;
+    text-align: center;
+}
+
+img#rockImg{
+
+    cursor: pointer;
+}
+
+body{
+    
+    text-align: center;
+    background-color: lightblue;
+}
+Footer
